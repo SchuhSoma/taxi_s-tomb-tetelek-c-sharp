@@ -1,0 +1,7 @@
+C:\Users\schuhs\Documents\10A prog gyak\Taxi_S_Tombok_Tetelek\Taxi_S_Tombok_Tetelek\bin\Debug\Taxi_S_Tombok_Tetelek.exe.config
+C:\Users\schuhs\Documents\10A prog gyak\Taxi_S_Tombok_Tetelek\Taxi_S_Tombok_Tetelek\bin\Debug\Taxi_S_Tombok_Tetelek.exe
+C:\Users\schuhs\Documents\10A prog gyak\Taxi_S_Tombok_Tetelek\Taxi_S_Tombok_Tetelek\bin\Debug\Taxi_S_Tombok_Tetelek.pdb
+C:\Users\schuhs\Documents\10A prog gyak\Taxi_S_Tombok_Tetelek\Taxi_S_Tombok_Tetelek\obj\Debug\Taxi_S_Tombok_Tetelek.csprojAssemblyReference.cache
+C:\Users\schuhs\Documents\10A prog gyak\Taxi_S_Tombok_Tetelek\Taxi_S_Tombok_Tetelek\obj\Debug\Taxi_S_Tombok_Tetelek.csproj.CoreCompileInputs.cache
+C:\Users\schuhs\Documents\10A prog gyak\Taxi_S_Tombok_Tetelek\Taxi_S_Tombok_Tetelek\obj\Debug\Taxi_S_Tombok_Tetelek.exe
+C:\Users\schuhs\Documents\10A prog gyak\Taxi_S_Tombok_Tetelek\Taxi_S_Tombok_Tetelek\obj\Debug\Taxi_S_Tombok_Tetelek.pdb
